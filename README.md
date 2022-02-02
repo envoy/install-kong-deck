@@ -23,4 +23,4 @@ jobs:
 
 ## Local Development
 
-Refer [this](https://docs.github.com/en/actions/creating-actions/creating-a-composite-action) document to learn more on how to create custom Github Actions (JS) 
+Refer [this](https://docs.github.com/en/actions/creating-actions/creating-a-composite-action) document to learn more on how to create custom Github Actions (composite) 
